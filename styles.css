@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+
+    img.resize {
+        width:540px; 
+        height: auto;
+    }
+    </style>
