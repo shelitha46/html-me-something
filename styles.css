@@ -1,16 +1,47 @@
+body {
+	font-family: Georgia, serif;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.center {
-  margin: auto;
-  width: 60%;
-  border: 3px solid #73AD21;
-  padding: 10px;
-
-    img.resize {
-        width:540px; 
-        height: auto;
+h1 {
+    font-family: Palatino, 'Palatino Linotype', serif;  
+        font-size: 32px;
     }
-    </style>
+h1 {
+    color: chocolate;
+}
+
+h2 {
+    font-size: 32px;
+    color: chocolate;
+}
+
+.Lisa {
+        padding: 250px 0;
+        margin: 30px;
+      font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    
+}
+
+
+#footer {
+    font-size: 0.75rem 
+}
+
+img {
+    border: 2px solid black; 
+  }
+
+  p {
+    padding: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+
+  }
+
+  
